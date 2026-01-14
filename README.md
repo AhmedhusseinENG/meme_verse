@@ -2,7 +2,7 @@
 
 Meme Verse is a dynamic web application designed for meme enthusiasts to discover, view, and interact with the latest and trendiest memes. Built with modern web technologies, it provides a seamless and responsive user experience.
 
-🚀 **Live Demo:** [Meme Verse Live](meme-verse-tan.vercel.app)
+🚀 **Live Demo:** [Meme Verse Live](https://meme-verse-tan.vercel.app/)
 
 ---
 
